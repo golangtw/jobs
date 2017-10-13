@@ -29,6 +29,7 @@
 * [香港商翱鶚股份有限公司台灣分公司](http://cepave.com/) 
 * [伊凡達科技](http://www.8888play.com)
 * [蹦點科技](https://room.fullinn.tw/)
+* [盈視訊電子科技有限公司](http://www.yingshixun.com/)
 
 ## 新竹
 
