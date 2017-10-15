@@ -54,4 +54,4 @@
 
 ___
 
-歡迎大家發 PR 將自己的公司加入
+需要放入其他公司請在[此 Issue](https://github.com/golangtw/jobs/issues/11) 底下留言
