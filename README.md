@@ -4,7 +4,7 @@
 
 ## 台北
 
-* [KKTIX - 活動售票報名，精彩從此開始](https://kktix.com/)
+* [KKTIX - 活動售票報名，精彩從此開始](https://kktix.com/) / [職缺列表](https://jobs.kktix.cc/)
 * [17 直播](http://17.media/)
 * [Linker Networks](http://www.linkernetworks.com/)
 * [書亞集成股份有限公司](http://www.surasia.net/)
