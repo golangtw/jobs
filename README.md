@@ -38,6 +38,7 @@
 * [鴻璟科技](http://www.lionic.com)
 * [凌網科技](https://www.hyweb.com.tw/) 
 * [工研院](https://www.itri.org.tw/)
+* [合勤科技](https://www.zyxel.com)
 
 ## 台中
 
