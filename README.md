@@ -1,6 +1,8 @@
 # 台灣 GO 語言招募職缺
 
-請注意發文格式，詳情請看 [Issue 列表](https://github.com/golangtw/jobs/issues)，有在用 Go 語言的公司如下
+請注意發文格式，詳情請看 [Issue 列表](https://github.com/golangtw/jobs/issues)，有在用 Go 語言的公司如下，歡迎加入 Go 語言討論群
+
+* Join [GolangTW Telegram](https://t.me/golangtw)
 
 ## 台北
 
