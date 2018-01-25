@@ -33,6 +33,7 @@
 * [蹦點科技](https://room.fullinn.tw/)
 * [盈視訊電子科技有限公司](http://www.yingshixun.com/)
 * [新加坡商誠蜂有限公司台灣分公司](http://www.honestbee.tw/) (honestbee)
+* [果實夥伴 / OneAD](http://www.onead.com.tw/)
 
 ## 新竹
 
@@ -50,7 +51,8 @@
 
 ## 高雄
 
-*  [Milkr](https://milkr.io)
+* [Milkr](https://milkr.io)
+* [Sligrid](https://sligrid.com)
 
 ## 遠端
 
