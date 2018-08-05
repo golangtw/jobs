@@ -35,6 +35,7 @@
 * [新加坡商誠蜂有限公司台灣分公司](http://www.honestbee.tw/) (honestbee)
 * [果實夥伴 / OneAD](http://www.onead.com.tw/)
 * [Intelligent P2P for IoT / orbweb](https://www.orbweb.com/)
+* [卓易科技(台北辦公室)](https://www.droi.com/)
 
 ## 新竹
 
