@@ -36,6 +36,7 @@
 * [果實夥伴 / OneAD](http://www.onead.com.tw/)
 * [Intelligent P2P for IoT / orbweb](https://www.orbweb.com/)
 * [卓易科技(台北辦公室)](https://www.droi.com/)
+* [SENSESTAR](https://www.sensestar.com/)
 
 ## 新竹
 
