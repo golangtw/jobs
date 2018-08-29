@@ -45,6 +45,7 @@
 * [凌網科技](https://www.hyweb.com.tw/) 
 * [工研院](https://www.itri.org.tw/)
 * [合勤科技](https://www.zyxel.com)
+* [鴻海精密](http://www.foxconn.com.tw/) (FG次集團) 新竹新安廠
 
 ## 台中
 
