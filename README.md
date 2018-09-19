@@ -36,6 +36,7 @@
 * [Intelligent P2P for IoT / orbweb](https://www.orbweb.com/)
 * [卓易科技(台北辦公室)](https://www.droi.com/)
 * [SENSESTAR](https://www.sensestar.com/)
+* [雲杉科技](http://spruce.casa)
 
 ## 新竹
 
