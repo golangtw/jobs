@@ -37,6 +37,8 @@
 * [卓易科技(台北辦公室)](https://www.droi.com/)
 * [SENSESTAR](https://www.sensestar.com/)
 * [雲杉科技](http://spruce.casa)
+* [FunNow](https://www.myfunnow.com/)
+* [街口支付](https://www.jkos.com/)
 
 ## 新竹
 
