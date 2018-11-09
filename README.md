@@ -39,6 +39,7 @@
 * [雲杉科技](http://spruce.casa)
 * [FunNow](https://www.myfunnow.com/)
 * [街口支付](https://www.jkos.com/)
+* [騰雲數位行銷](http://tengyun.tw/)
 
 ## 新竹
 
