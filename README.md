@@ -38,6 +38,7 @@
 * [FunNow](https://www.myfunnow.com/)
 * [街口支付](https://www.jkos.com/)
 * [騰雲數位行銷](http://tengyun.tw/)
+* [百阜科技](https://www.baifu-tech.net/)
 
 ## 新竹
 
