@@ -39,6 +39,7 @@
 * [街口支付](https://www.jkos.com/)
 * [騰雲數位行銷](http://tengyun.tw/)
 * [百阜科技](https://www.baifu-tech.net/)
+* [思華科技](https://www.104.com.tw/company/1a2x6bklkm)
 
 ## 新竹
 
