@@ -41,6 +41,7 @@
 * [百阜科技](https://www.baifu-tech.net/)
 * [思華科技](https://www.silkrode.com.tw/)
 * [美商格拉思緹有限公司台灣分公司 (Glasnostic)](https://www.104.com.tw/company/1a2x6bkr44)
+* [Netskope](https://www.netskope.com/)
 
 ## 新竹
 
