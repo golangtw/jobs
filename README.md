@@ -6,7 +6,7 @@
 
 ## 台北
 
-* [KKTIX - 活動售票報名，精彩從此開始](https://kktix.com/) / [職缺列表](https://jobs.kktix.cc/)
+* [KKTIX - 活動售票報名，精彩從此開始](https://kktix.com/)
 * [17 直播](http://17.media/)
 * [書亞集成股份有限公司](http://www.surasia.net/)
 * [孚梭有限公司](https://www.fazzo-creative.com)
@@ -26,6 +26,7 @@
 * [Trend Micro](http://www.trendmicro.tw)
 * [Snapask](https://snapask.co/)
 * [金貝科技](https://www.104.com.tw/job/?jobno=5fltk&jobsource=m104)
+* [香港商翱鶚股份有限公司台灣分公司](http://cepave.com/)  (Cepave)
 * [伊凡達科技](http://www.8888play.com)
 * [蹦點科技](https://room.fullinn.tw/)
 * [盈視訊電子科技有限公司](http://www.yingshixun.com/)
@@ -42,6 +43,7 @@
 * [思華科技](https://www.silkrode.com.tw/)
 * [美商格拉思緹有限公司台灣分公司 (Glasnostic)](https://www.104.com.tw/company/1a2x6bkr44)
 * [Netskope](https://www.netskope.com/)
+* [Leukocyte-Lab 盧氪賽忒股份有限公司](https://www.leukocyte-lab.com/)
 
 ## 新竹
 
