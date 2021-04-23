@@ -44,6 +44,7 @@
 * [美商格拉思緹有限公司台灣分公司 (Glasnostic)](https://www.104.com.tw/company/1a2x6bkr44)
 * [Netskope](https://www.netskope.com/)
 * [Leukocyte-Lab 盧氪賽忒股份有限公司](https://www.leukocyte-lab.com/)
+* [零碼科技 Code Zero](https://codezero.tw)
 
 ## 新竹
 
