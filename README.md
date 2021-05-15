@@ -45,6 +45,7 @@
 * [Netskope](https://www.netskope.com/)
 * [Leukocyte-Lab 盧氪賽忒股份有限公司](https://www.leukocyte-lab.com/)
 * [零碼科技 Code Zero](https://codezero.tw)
+* [優必闊科技](https://www.ubiik.com/)
 
 ## 新竹
 
