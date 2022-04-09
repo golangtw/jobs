@@ -47,6 +47,7 @@
 * [零碼科技 Code Zero](https://codezero.tw)
 * [優必闊科技](https://www.ubiik.com/)
 * [摩速科技 (Mlytics)](https://www.mlytics.com/)
+* [foodpanda](https://careers.foodpanda.com/jobs/?country=taiwan) 
 
 ## 新竹
 
