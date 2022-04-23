@@ -8,7 +8,6 @@
 
 * [KKTIX - 活動售票報名，精彩從此開始](https://kktix.com/)
 * [17 直播](http://17.media/)
-* [書亞集成股份有限公司](http://www.surasia.net/)
 * [孚梭有限公司](https://www.fazzo-creative.com)
 * [Amis 帳聯網路科技](http://am.is/)
 * [Dcard](https://www.dcard.tw)
