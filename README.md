@@ -58,6 +58,10 @@
 * [鴻海精密](http://www.foxconn.com.tw/) (FG次集團) 新竹新安廠
 * [明泰科技](https://www.alphanetworks.com/)
 
+## 苗栗
+
+* [群聯電子](https://www.phison.com/zh-tw/)
+
 ## 台中
 
 * [德聚科技](https://www.104.com.tw/job/?jobno=52hps&jobsource=n104bank1)
