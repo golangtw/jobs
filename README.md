@@ -47,6 +47,8 @@
 * [優必闊科技](https://www.ubiik.com/)
 * [摩速科技 (Mlytics)](https://www.mlytics.com/)
 * <del>[foodpanda](https://careers.foodpanda.com/jobs/?country=taiwan) </del>
+* [Bigobject 核桃運算](https://www.bigobject.io/)
+* [RE:DREAMER Lab](https://www.redreamer.io/)
 
 ## 新竹
 
