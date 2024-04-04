@@ -24,7 +24,7 @@
 * [旋轉拍賣 Carousell](http://careers.carousell.com/)
 * [Trend Micro](http://www.trendmicro.tw)
 * [Snapask](https://snapask.co/)
-* [金貝科技](https://www.104.com.tw/job/?jobno=5fltk&jobsource=m104)
+* <del>[金貝科技](https://www.104.com.tw/job/?jobno=5fltk&jobsource=m104)</del>
 * [香港商翱鶚股份有限公司台灣分公司](http://cepave.com/)  (Cepave)
 * [伊凡達科技](http://www.8888play.com)
 * [蹦點科技](https://room.fullinn.tw/)
@@ -39,7 +39,7 @@
 * [街口支付](https://www.jkos.com/)
 * [騰雲數位行銷](http://tengyun.tw/)
 * [百阜科技](https://www.baifu-tech.net/)
-* [思華科技](https://www.silkrode.com.tw/)
+* <del>[思華科技](https://www.silkrode.com.tw/)</del>
 * [美商格拉思緹有限公司台灣分公司 (Glasnostic)](https://www.104.com.tw/company/1a2x6bkr44)
 * [Netskope](https://www.netskope.com/)
 * [Leukocyte-Lab 盧氪賽忒股份有限公司](https://www.leukocyte-lab.com/)
