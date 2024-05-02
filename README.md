@@ -32,7 +32,7 @@
 * [新加坡商誠蜂有限公司台灣分公司](http://www.honestbee.tw/) (honestbee)
 * [果實夥伴 / OneAD](http://www.onead.com.tw/)
 * [Intelligent P2P for IoT / orbweb](https://www.orbweb.com/)
-* [卓易科技(台北辦公室)](https://www.droi.com/)
+* <del>[卓易科技(台北辦公室)](https://www.droi.com/) </del>
 * [SENSESTAR](https://www.sensestar.com/)
 * [雲杉科技](http://spruce.casa)
 * [FunNow](https://www.myfunnow.com/)
@@ -49,6 +49,8 @@
 * <del>[foodpanda](https://careers.foodpanda.com/jobs/?country=taiwan) </del>
 * [Bigobject 核桃運算](https://www.bigobject.io/)
 * [RE:DREAMER Lab](https://www.redreamer.io/)
+* [M800(台北辦公室)](https://m800.com/zh)
+* [UI (Ubiquiti 台北辦公室)](https://ui.com/)
 
 ## 新竹
 
