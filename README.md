@@ -52,6 +52,7 @@
 * [M800(台北辦公室)](https://m800.com/zh)
 * [UI (Ubiquiti 台北辦公室)](https://ui.com/)
 * [光速未來](https://www.104.com.tw/company/1a2x6bmdko?jobsource=google)
+* [顯赫資訊](https://www.gentrice.net/)
 
 ## 新竹
 
