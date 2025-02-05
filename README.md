@@ -53,7 +53,8 @@
 * [UI (Ubiquiti 台北辦公室)](https://ui.com/)
 * [光速未來](https://www.104.com.tw/company/1a2x6bmdko?jobsource=google)
 * [顯赫資訊](https://www.gentrice.net/)
-
+* [方格子](https://vocus.cc)
+  
 ## 新竹
 
 * [聯發科技](https://www.mediatek.com)
